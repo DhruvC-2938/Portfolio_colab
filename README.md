@@ -1,6 +1,6 @@
-##Google sheet link : https://docs.google.com/spreadsheets/d/1gVpkizoXA3HWvuqrWmXhYiQ9nV7jM1Wyi6-I7YSRg84/edit?usp=sharing
+## Google sheet link : https://docs.google.com/spreadsheets/d/1gVpkizoXA3HWvuqrWmXhYiQ9nV7jM1Wyi6-I7YSRg84/edit?usp=sharing
 
-#Prompt : 
+# Prompt : 
 Create a complete AI-powered Portfolio Management and Resume Generator in Google Colab using Python, Gemini API, SQLite, Google Sheets API, Gradio, and ReportLab. Requirements: 1. Store personal information, education, skills, certifications, projects, experience, achievements, publications, and languages in a structured database. 
 2. Use Gemini to organize portfolio data, analyze job descriptions, extract keywords, match relevant skills and projects, and suggest resume improvements.
 3. Export and synchronize portfolio data with Google Sheets using separate tabs for each category. 
